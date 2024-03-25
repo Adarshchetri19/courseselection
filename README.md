@@ -1,4 +1,4 @@
-
+Course-Selection-Portal:
 
 This Repository consists of files built during the development of the DBMS project. IDE -vscode and XAMPP was used to host the project on the localhost using MyPHPAdmin
 
